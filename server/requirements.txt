@@ -16,7 +16,7 @@ future==0.17.1
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10
-Mako==1.0.8
+Mako==1.2.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 plaid-python==3.1.0
@@ -57,7 +57,7 @@ gunicorn==19.9.0
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10
-Mako==1.0.8
+Mako==1.2.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 plaid-python==3.1.0
@@ -100,7 +100,7 @@ gunicorn==19.9.0
 idna==2.8
 itsdangerous==1.1.0
 Jinja2==2.10
-Mako==1.0.8
+Mako==1.2.2
 MarkupSafe==1.1.1
 mccabe==0.6.1
 plaid-python==3.1.0
